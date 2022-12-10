@@ -65,3 +65,10 @@ button{
                 5px 5px 12px rgba(0,0,0,.16);
     
 }
+
+h1{
+    font-family: 'Zen Dots', cursive;
+    font-size: 100px;
+    text-align: center;    
+    margin-top: 50px;
+}
